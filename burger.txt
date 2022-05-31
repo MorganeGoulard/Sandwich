@@ -5,3 +5,4 @@ cornichons
 viande grillée
 bacon
 pain 
+sauce tartare
